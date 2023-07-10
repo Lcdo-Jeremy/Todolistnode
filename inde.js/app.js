@@ -67,19 +67,19 @@ function modifyTask(index, newTask) {
 }
 
 // Cargar las tareas
-tasks = loadTasks();
+// tasks = loadTasks();
 
 // Ejemplo de uso
-addTask('Leer un libro');
-addTask('Ir al gimnasio');
-addTask('Llevar al perro al veterinario')
-addTask('Hacer la compra');
-addTask('Hacer yogha');
-console.log(tasks);
+// addTask('Leer un libro');
+// addTask('Ir al gimnasio');
+// addTask('Llevar al perro al veterinario')
+// addTask('Hacer la compra');
+// addTask('Hacer yogha');
+// console.log(tasks);
 
-removeTask(0);
-console.log(tasks);
+// removeTask(0);
+// console.log(tasks);
 
-modifyTask(0, 'Estudiar para el examen');
-modifyTask(1, 'lavar los platos');
-console.log(tasks);
+// modifyTask(0, 'Estudiar para el examen');
+// modifyTask(1, 'lavar los platos');
+// console.log(tasks);
